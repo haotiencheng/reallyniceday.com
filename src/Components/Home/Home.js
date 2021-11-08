@@ -9,8 +9,6 @@ import openInNewTab from "../../Functions/openInNewTab";
 library.add(fab);
 
 function Home() {
-    // const description =
-    //     "Hao-Tien Cheng aka Really Nice Day,\n A Front-End Web Developer passionate about creating interactive applications and experiences on the web.";
     return (
         <section id="Home" className="mb-16">
             <div className="flex flex-col mx-4 sm:mx-8 md:mx-16 xl:mx-32 2xl:mx-48 place-items-center">

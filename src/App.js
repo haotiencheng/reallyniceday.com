@@ -12,6 +12,7 @@ import Loader from "./Components/Loader/Loader.js";
 
 function App() {
     const [loading, setLoading] = useState(true);
+
     useEffect(() => {
         setTimeout(() => {
             setLoading(false);
