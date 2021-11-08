@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7fff45bc.chunk.css",
+    "main.js": "/static/js/main.c31138dd.chunk.js",
+    "main.js.map": "/static/js/main.c31138dd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.df3b8725.js",
+    "runtime-main.js.map": "/static/js/runtime-main.df3b8725.js.map",
+    "static/css/2.8b02b6de.chunk.css": "/static/css/2.8b02b6de.chunk.css",
+    "static/js/2.ebfc8df2.chunk.js": "/static/js/2.ebfc8df2.chunk.js",
+    "static/js/2.ebfc8df2.chunk.js.map": "/static/js/2.ebfc8df2.chunk.js.map",
+    "static/js/3.113d648e.chunk.js": "/static/js/3.113d648e.chunk.js",
+    "static/js/3.113d648e.chunk.js.map": "/static/js/3.113d648e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.8b02b6de.chunk.css.map": "/static/css/2.8b02b6de.chunk.css.map",
+    "static/css/main.7fff45bc.chunk.css.map": "/static/css/main.7fff45bc.chunk.css.map",
+    "static/js/2.ebfc8df2.chunk.js.LICENSE.txt": "/static/js/2.ebfc8df2.chunk.js.LICENSE.txt",
+    "static/media/Nodejs.dd47e26e.svg": "/static/media/Nodejs.dd47e26e.svg",
+    "static/media/Robofriends.c026ebe3.png": "/static/media/Robofriends.c026ebe3.png",
+    "static/media/Smart Brain.9134f241.png": "/static/media/Smart Brain.9134f241.png",
+    "static/media/Stock CC.57ba2053.png": "/static/media/Stock CC.57ba2053.png",
+    "static/media/css.2f489abe.svg": "/static/media/css.2f489abe.svg",
+    "static/media/git.c60b7e5a.svg": "/static/media/git.c60b7e5a.svg",
+    "static/media/hero.d515f829.png": "/static/media/hero.d515f829.png",
+    "static/media/html.bff21c24.svg": "/static/media/html.bff21c24.svg",
+    "static/media/javascript.07314975.svg": "/static/media/javascript.07314975.svg",
+    "static/media/jquery.09989e75.svg": "/static/media/jquery.09989e75.svg",
+    "static/media/microsoft.e116a418.svg": "/static/media/microsoft.e116a418.svg",
+    "static/media/postgresql.b941b412.svg": "/static/media/postgresql.b941b412.svg",
+    "static/media/python.b89a5543.svg": "/static/media/python.b89a5543.svg",
+    "static/media/react.e68b35f4.svg": "/static/media/react.e68b35f4.svg",
+    "static/media/styles.css": "/static/media/revicons.e8746a62.woff",
+    "static/media/tailwindcss.cb8046c1.svg": "/static/media/tailwindcss.cb8046c1.svg",
+    "static/media/vscode.b8b1e001.svg": "/static/media/vscode.b8b1e001.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df3b8725.js",
+    "static/css/2.8b02b6de.chunk.css",
+    "static/js/2.ebfc8df2.chunk.js",
+    "static/css/main.7fff45bc.chunk.css",
+    "static/js/main.c31138dd.chunk.js"
+  ]
+}
