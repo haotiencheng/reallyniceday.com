@@ -9,8 +9,8 @@ import openInNewTab from "../../Functions/openInNewTab";
 library.add(fab);
 
 function Home() {
-    const description =
-        "Hao-Tien Cheng aka Really Nice Day,\n A Front-End Web Developer passionate about creating interactive applications and experiences on the web.";
+    // const description =
+    //     "Hao-Tien Cheng aka Really Nice Day,\n A Front-End Web Developer passionate about creating interactive applications and experiences on the web.";
     return (
         <section id="Home" className="mb-16">
             <div className="flex flex-col mx-4 sm:mx-8 md:mx-16 xl:mx-32 2xl:mx-48 place-items-center">
@@ -75,8 +75,17 @@ function Home() {
                         />
                     </div>
                 </div>
-                <div className="2xl:text-2xl items-center justify-center my-8 text-primary whitespace-pre-wrap">
-                    {description}
+                <div className="items-center justify-center text-primary whitespace-pre-wrap ">
+                    <div className="text-2xl md:text-3xl font-bold my-4">
+                        Hao Tien Cheng
+                    </div>
+                    <div className="text-lg md:text-xl italic text-primary-light">
+                        Front-End Developer｜Dancer
+                    </div>
+                    <div className="text-2xl md:text-3xl text-secondary mt-4">
+                        Simple and intuitive design is what inspires and drives
+                        me.
+                    </div>
                 </div>
             </div>
         </section>

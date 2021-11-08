@@ -98,7 +98,7 @@ function Contact() {
                                 className="border-2 h-36 bg-transparent"
                             />
                         </div>
-                        <div className="flex mt-4 mb-20 w-1/2 md:w-1/6 h-1/4">
+                        <div className="flex mt-4 mb-20 w-1/2 md:w-1/3 lg:w-1/6 h-1/4">
                             <input
                                 type="submit"
                                 value="Submit"
@@ -107,13 +107,13 @@ function Contact() {
                             <a href="mailto: haotiencheng1217@gmail.com">
                                 <FontAwesomeIcon
                                     icon={faEnvelope}
-                                    className=" md:hidden align-middle text-lg mx-4"
+                                    className=" lg:hidden align-middle text-lg mx-4"
                                 />
                             </a>
                             <a href="tel:+886-905-516-617">
                                 <FontAwesomeIcon
                                     icon={faPhone}
-                                    className="md:hidden align-middle text-lg"
+                                    className="lg:hidden align-middle text-lg"
                                 />
                             </a>
                         </div>

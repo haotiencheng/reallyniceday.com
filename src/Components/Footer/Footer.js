@@ -12,31 +12,37 @@ function Footer() {
             <div className="items-center justify-self-start lg:col-span-7 col-span-9 flex mx-4 md:mx-16 h-8 2xl:h-12">
                 <div>© Cheng Hao Tien 2021｜</div>
                 <div>web developer｜</div>
-                <a href="mailto: haotiencheng1217@gmail.com">
+                <a
+                    href="mailto: haotiencheng1217@gmail.com"
+                    className="hover:text-primary transition duration-300"
+                >
                     <FontAwesomeIcon
                         icon={faEnvelope}
-                        className="hidden md:inline-block mr-10 md:mr-2"
+                        className="hidden lg:inline-block mr-10 md:mr-2"
                     />
                     <span className="hidden lg:inline-block">
                         haotiencheng1217@gmail.com｜
                     </span>
                 </a>
-                <a href="tel:+886-905-516-617">
+                <a
+                    href="tel:+886-905-516-617"
+                    className="hover:text-primary transition duration-300"
+                >
                     <FontAwesomeIcon
                         icon={faPhone}
                         className="hidden lg:inline-block md:mr-2"
                     />
-                    <span className="hidden md:inline-block">
+                    <span className="hidden lg:inline-block">
                         (+886)905-516-617
                     </span>
                 </a>
             </div>
             <a
-                className="items-center lg:col-span-3 col-span-1 flex justify-self-end mx-4 md:mx-16"
+                className="items-center lg:col-span-3 col-span-1 flex justify-self-end mx-4 md:mx-16 hover:text-primary transition duration-300"
                 href="#Home"
             >
-                <FontAwesomeIcon icon={faArrowUp} className="mr-2" />
-                <span className="hidden md:inline-block">Back to top</span>
+                <FontAwesomeIcon icon={faArrowUp} className="mr-2 " />
+                <span className="hidden lg:inline-block ">Back to top</span>
             </a>
         </div>
     );
