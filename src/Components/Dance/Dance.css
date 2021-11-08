@@ -1,0 +1,19 @@
+
+  .video-responsive iframe {
+    height: 100%;
+    width: 100%;
+    border-radius: 15px;
+  }
+
+  .react-multi-carousel-track {
+    height: 100%;
+  }
+
+  .react-multiple-carousel__arrow {
+    z-index: 1 !important;
+    background-color: #9092A3 !important;
+  }
+
+  .react-multiple-carousel__arrow:hover {
+    background-color: #C7B299 !important;
+  }
