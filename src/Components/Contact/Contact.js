@@ -104,7 +104,7 @@ function Contact() {
                                 value="Submit"
                                 className="justify-self-start w-full h-full cursor-pointer bg-primary text-white border hover:border-transparent rounded-full hover:bg-primary-light active:bg-secondary transform duration-300"
                             />
-                            <a href="mailto: haotiencheng1217@gmail.com">
+                            <a href="mailto: htcheng@reallyniceday.com">
                                 <FontAwesomeIcon
                                     icon={faEnvelope}
                                     className=" lg:hidden align-middle text-lg mx-4"

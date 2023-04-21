@@ -13,7 +13,7 @@ function Footer() {
                 <div>© Cheng Hao Tien 2021｜</div>
                 <div>web developer｜</div>
                 <a
-                    href="mailto: haotiencheng1217@gmail.com"
+                    href="mailto: htcheng@reallyniceday.com"
                     className="hover:text-primary transition duration-300"
                 >
                     <FontAwesomeIcon
@@ -21,7 +21,7 @@ function Footer() {
                         className="hidden lg:inline-block mr-10 md:mr-2"
                     />
                     <span className="hidden lg:inline-block">
-                        haotiencheng1217@gmail.com｜
+                        htcheng@reallyniceday.com｜
                     </span>
                 </a>
                 <a
