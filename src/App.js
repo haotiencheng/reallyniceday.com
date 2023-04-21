@@ -25,6 +25,7 @@ function App() {
     chatbox.setAttribute("attribution", "biz_inbox");
 
     window.fbAsyncInit = function () {
+      // eslint-disable-next-line no-undef
       FB.init({
         xfbml: true,
         version: "v16.0",
